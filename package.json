@@ -1,0 +1,14 @@
+{
+  "name": "backendtutorialsatyam22",
+  "version": "1.0.0",
+  "description": "Backend Tutorial 18Aug24",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
